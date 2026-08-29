@@ -1,8 +1,8 @@
 # trinik15
 
 I build small, specific tools: literature mining for biomedical research,
-scouting dashboards on public sports data, and bots for communities I'm in.
-TypeScript and Python; Next.js when there's a UI.
+scouting dashboards on public sports data, and Discord bots for my CivMC
+server friends. TypeScript and Python; Next.js when there's a UI.
 
 Current focus: [prnp-variant-analyzer](https://github.com/trinik15/prnp-variant-analyzer) —
 PubMed abstracts in, structured PRNP variant/evidence dataset out
